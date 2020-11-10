@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="log #æ­¤å¤æ ¹æ®é¨ç½²ç³»ç»å¡«åç¸åºç»å¯¹è·¯å¾" type="PLAIN_TEXT" />
+      <mapping pattern="studentMapper" type="XML" />
+      <mapping pattern="applicationContext" type="XML" />
+      <mapping ext="yml " type="YAML" />
+      <removed_mapping pattern="Mytest.xml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Mybatis-config.xml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="applicationContext.xml" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

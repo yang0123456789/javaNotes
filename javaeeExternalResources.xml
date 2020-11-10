@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" />
+    <ignored-resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" />
+  </component>
+</application>

@@ -1,0 +1,80 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\java\apache-maven-3.6.3\mvnrep" />
+            <option name="mavenHome" value="D:/java/apache-maven-3.6.3" />
+            <option name="userSettingsFile" value="D:\java\apache-maven-3.6.3\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="delegateBuildToMaven" value="true" />
+        <option name="jreName" value="1.8 (3)" />
+        <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (3)" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8 (3)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8 (3)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

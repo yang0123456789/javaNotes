@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="trylock" value=".lock();&#10;try&#10;{&#10; if()&#10;}catch(Exception e){&#10;    e.printStackTrace();&#10;}finally{&#10;lock.unlock();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mycurr" value="Thread.currentThread().getName()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="newthread" value=" new Thread(()-&gt;{ },&quot;&quot;).start();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="trycatch" value="try {&#10;&#10;}catch(Exception e){&#10;     e.printStackTrace();&#10;}finally{&#10;}&#10;&#10;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for(int i=0;i&lt; ;i++){&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,5 @@
+<application>
+  <component name="ChangeReminderUserStorage">
+    <option name="pluginEnabled" value="false" />
+  </component>
+</application>
