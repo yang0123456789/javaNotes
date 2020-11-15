@@ -2,6 +2,8 @@
 
 #### [3.1.1. 介绍](https://snailclimb.gitee.io/javaguide/#/docs/java/basis/代理模式详解?id=_311-介绍)
 
+**JDK 动态代理有一个最致命的问题是其只能代理实现了接口的类。**
+
 **在 Java 动态代理机制中 `InvocationHandler` 接口和 `Proxy` 类是核心。**
 
 `Proxy` 类中使用频率最高的方法是：`newProxyInstance()` ，这个方法主要用来生成一个代理对象。
