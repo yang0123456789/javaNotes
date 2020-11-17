@@ -8,7 +8,7 @@ package codes.JVMstudy;
  * # @Software: IntelliJ IDEA
  */
 
-/*** 字段不参与多态 * @author zzm */
+/** 字段不参与多态  */
 public class FieldHasNoPolymorphic {
     static class Father {
         public int money = 1;

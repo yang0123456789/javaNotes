@@ -22,23 +22,24 @@ public class failFasttest {
 
 //        array.removeIf(i -> i == 2);
 
-        Iterator<Integer> iterator = array.iterator();
-        while (iterator.hasNext()) {
-            Integer i = iterator.next();
-            if (i == 3) {
-                iterator.remove();
-            }
-
-        }
-
-//
-//        for (Integer i:array
-//             ) {
-//                if (3==i){
-//                    array.remove(i);
-//                }
+//        Iterator<Integer> iterator = array.iterator();
+//        while (iterator.hasNext()) {
+//            Integer i = iterator.next();
+//            if (i == 3) {
+//                iterator.remove();
+//            }
 //
 //        }
+
+
+
+        for (Integer i:array
+             ) {
+                if (3==i){
+                    array.remove(i);
+                }
+
+        }
         System.out.println(array);
     }
 }
