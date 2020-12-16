@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/yang0123456789/dismall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NiceSeason/SpringBoot_demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\" />
+    <option name="cloneParentDir" value="D:\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
