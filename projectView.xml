@@ -2,6 +2,7 @@
   <component name="ProjectViewSharedSettings">
     <option name="autoscrollToSource" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyPackages" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
 </application>
