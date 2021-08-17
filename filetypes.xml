@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="log #æ­¤å¤æ ¹æ®é¨ç½²ç³»ç»å¡«åç¸åºç»å¯¹è·¯å¾" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping pattern="studentMapper" type="XML" />
       <mapping pattern="applicationContext" type="XML" />
       <mapping ext="yml " type="YAML" />
