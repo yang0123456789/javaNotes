@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attachments" />
       <item value="client" />
       <item value="claim" />
       <item value="Expiration" />
@@ -9,9 +10,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
   </component>
