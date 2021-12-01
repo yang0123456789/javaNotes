@@ -26,6 +26,10 @@
           <option name="url" value="git@github.com:yang0123456789/netty-study-code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yang0123456789/suanfashipinxuexibiji.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\github" />
